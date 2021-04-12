@@ -8,6 +8,6 @@ It utilises a Fork Mheironimus Arduino Joystick library by Jas2o (https://github
   (Press Mod + the button you want it to be. Only works with A,B,X,Y,L,R,ZL and ZR).  
     
     
-![image 2](/images/+IMG_8805.JPG)
 ![image 3](/images/%2BIMG_8796.JPG)
+![image 2](/images/+IMG_8805.JPG)
 ![image 4](/images/%2B.JPG)
